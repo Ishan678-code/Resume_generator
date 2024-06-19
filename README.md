@@ -1,3 +1,6 @@
+# Description
+Created a resume generator application that generates the resume from the data stored in web server. 
+
 # Web-Server
 Web Server is an interface between client and server which recieves the request from the client and delivers the content to the users/client as a response. Here, is the simple web server created using nodejs and http modules.
 
